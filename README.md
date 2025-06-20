@@ -31,6 +31,8 @@ This course is based on the [omonimous course](https://esslli24-pfthml.github.io
 The material will be regularly updated throughout the course. 
 
 ### Lecture 1 - Sequent Calculus and Modal Logic <a name="l1"></a>
+In this lecture we will introduce Gentzen-style sequent calculus for classical propositional logic, using the proof system G3cpl presented in Section 3.5 of (Troelstra and Schwichtenberg, 2000). We will use the calculus to illustrate the main proof-theoretical properties which we will be focusing on in the course, including *invertibility* of the rules, *cut-admissibility* and *termination* of proof search. We will then (quickly) introduce the classical modal logics in the S5-cube, and discuss the available proof systems for the logics. In particular, we will see that the Gentzen-style formalism is not enough to define cut-free calculi for modal logic. This motivates the introduction to *nested* and *labelled* proof systems, which enrich Gentzen-style sequent calculus in different ways. 
+
 
 #### Slides
 To be uploaded.
@@ -39,6 +41,8 @@ To be uploaded.
 To be uploaded.
 
 ### Lecture 2 - Nested Sequents <a name="l2"></a>
+In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer strcture, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K, illustrate their main proof-theorerical properties. 
+The presentation of nested seqeunts is based on (Brünnler, 2009). 
 
 #### Slides
 To be uploaded.
@@ -71,7 +75,7 @@ To be uploaded.
 
 
 ## Prerequisites <a name="pre"></a>
-We only assume some basic familiarity with sequent calculus and modal logics. We will briefly introduce both topics, recalling the main notions used throughout the course, in Lecture 1. In particular, we will be using versions of G3cpl, the sequent calculus for classical propositional logic presented in Section 3.5 of Troelstra and Schwichtenberg, 2000. 
+We only assume some basic familiarity with sequent calculus and modal logics. We will briefly introduce both topics, recalling the main notions used throughout the course, in Lecture 1. In particular, we will be using versions of G3cpl, the sequent calculus for classical propositional logic presented in Section 3.5 of (Troelstra and Schwichtenberg, 2000). 
 
 
 ## References <a name="refs"></a>
