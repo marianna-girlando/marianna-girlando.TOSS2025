@@ -1,5 +1,5 @@
 # Proof Theory of Modal Logic
-### Webpage for the course Proof Theory of Modal Logic at the [5th Tsinghua Logic Summer School](https://tsinghualogic.net/JRC/toss/), 2025 
+### Course at the [5th Tsinghua Logic Summer School](https://tsinghualogic.net/JRC/toss/), June and July 2025 
 ### [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html)
 
 
@@ -23,7 +23,7 @@ This course is based on the [omonimous course](https://esslli24-pfthml.github.io
 ### Practical information <a name="info"></a>
 - **Time:** TBA
 - **Location:** TBA
-- **Lecturer:** Marianna Girlando ("m.girlando _at_ uva _dot_ nl".)
+- **Lecturer:** [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html) ("m.girlando _at_ uva _dot_ nl")
 - **Teaching Assistants:** TBA
 
 
@@ -73,7 +73,8 @@ To be uploaded.
 ## Prerequisites <a name="pre"></a>
 We only assume some basic familiarity with sequent calculus and modal logics. We will briefly introduce both topics, recalling the main notions used throughout the course, in Lecture 1. In particular, we will be using versions of G3cpl, the sequent calculus for classical propositional logic presented in Section 3.5 of Troelstra and Schwichtenberg, 2000. 
 
-#### References <a name="refs"></a>
+
+## References <a name="refs"></a>
 There are several textbooks and resources that introduce modal logics. You could have a look at one of the following:
 - The Stanford Encyclopedia entry for "Modal logics" ([link](https://seop.illc.uva.nl/entries/logic-modal/)).
 - van Benthem, Modal logic for open minds, Stanford: Center for the Study of Language and Information, 2010.
