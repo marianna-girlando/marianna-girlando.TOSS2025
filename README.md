@@ -9,7 +9,7 @@ This webpage contains the slides, handouts and homeowork assignments for the cou
 This course is based on the [omonimous course](https://esslli24-pfthml.github.io/esslli24PfThML.github.io/) taught at [ESSLLI2024](https://2024.esslli.eu/), prepared and taught in collaboration with [Tiziano Dalmonte](https://dev-www.unibz.it/en/faculties/engineering/academic-staff/person/47069-tiziano-dalmonte). 
 
 
-### Table of Contents 
+## Table of Contents 
 - [Practical information](#info)
 - [Course material](#material)
   - [Lecture 1 - Sequent Calculus and Modal Logic](#l1)
@@ -17,10 +17,11 @@ This course is based on the [omonimous course](https://esslli24-pfthml.github.io
   - [Lecture 3 - Labelled Proof Systems](#l3) 
   - [Lecture 4 - Semantic Completeness of Labelled Calculi](#l4)
   - [Lecture 5 - Beyond the S5-cube - Labelled Calculi and Neighbourhood Models](#l5)
+- [Homework Assignment](#homs)
 - [Prerequisites](#pre)
 - [References](#refs)
 
-### Practical information <a name="info"></a>
+## Practical information <a name="info"></a>
 - **Time:** TBA
 - **Location:** TBA
 - **Lecturer:** [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html) ("m.girlando _at_ uva _dot_ nl")
@@ -37,9 +38,6 @@ In this lecture we will introduce Gentzen-style sequent calculus for classical p
 #### Slides
 To be uploaded.
 
-#### Homework 1
-To be uploaded.
-
 ### Lecture 2 - Nested Sequents <a name="l2"></a>
 In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer strcture, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K, illustrate their main proof-theorerical properties. 
 The presentation of nested seqeunts is based on (Brünnler, 2009). 
@@ -47,24 +45,18 @@ The presentation of nested seqeunts is based on (Brünnler, 2009).
 #### Slides
 To be uploaded.
 
-#### Homework 2
-To be uploaded.
 
 ### Lecture 3 - Labelled Proof Systems <a name="l3"></a>
 
 #### Slides
 To be uploaded.
 
-#### Homework 3
-To be uploaded.
 
 ### Lecture 4 - Semantic Completeness of Labelled Calculi  <a name="l4"></a>
 
 #### Slides
 To be uploaded.
 
-#### Homework 3
-To be uploaded.
 
 ### Lecture 5 - Beyond the S5-cube - Labelled Calculi and Neighbourhood Models <a name="l5"></a>
 
@@ -72,13 +64,19 @@ To be uploaded.
 To be uploaded.
 
 
+### Homework Assignments <a name="homs"></a>
+- Homework 1 - To be uploaded.
+- Homework 2 - To be uploaded.
+- Homework 3 - To be uploaded.
+- Homework 4 - To be uploaded.
+- Homework 5 - To be uploaded.
 
 
-## Prerequisites <a name="pre"></a>
+### Prerequisites <a name="pre"></a>
 We only assume some basic familiarity with sequent calculus and modal logics. We will briefly introduce both topics, recalling the main notions used throughout the course, in Lecture 1. In particular, we will be using versions of G3cpl, the sequent calculus for classical propositional logic presented in Section 3.5 of (Troelstra and Schwichtenberg, 2000). 
 
 
-## References <a name="refs"></a>
+### References <a name="refs"></a>
 There are several textbooks and resources that introduce modal logics. You could have a look at one of the following:
 - The Stanford Encyclopedia entry for "Modal logics" ([link](https://seop.illc.uva.nl/entries/logic-modal/)).
 - van Benthem, Modal logic for open minds, Stanford: Center for the Study of Language and Information, 2010.
