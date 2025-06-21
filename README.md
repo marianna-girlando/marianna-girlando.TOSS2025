@@ -9,16 +9,16 @@ This webpage contains the slides, handouts and homeowork assignments for the cou
 This course is based on a [course](https://esslli24-pfthml.github.io/esslli24PfThML.github.io/) taught at [ESSLLI2024](https://2024.esslli.eu/), prepared in collaboration with [Tiziano Dalmonte](https://dev-www.unibz.it/en/faculties/engineering/academic-staff/person/47069-tiziano-dalmonte).
 
 
-## Table of Contents 
+## Table of Contents
   - [Course material ](#course-material-)
     - [Lecture 1 - Sequent Calculus and Modal Logic ](#lecture-1---sequent-calculus-and-modal-logic-)
     - [Lecture 2 - Nested Sequents ](#lecture-2---nested-sequents-)
     - [Lecture 3 - Labelled Proof Systems ](#lecture-3---labelled-proof-systems-)
     - [Lecture 4 - Semantic Completeness of Labelled Calculi  ](#lecture-4---semantic-completeness-of-labelled-calculi--)
     - [Lecture 5 - Beyond the S5-cube ](#lecture-5---beyond-the-s5-cube-)
-    - [Homework Assignments ](#homework-assignments-)
-    - [Prerequisites ](#prerequisites-)
-    - [References ](#references-)
+  - [Homework Assignments ](#homework-assignments-)
+  - [Prerequisites ](#prerequisites-)
+  - [References ](#references-)
 
 ## Practical information <a name="info"></a>
 - **Time:** TBA
