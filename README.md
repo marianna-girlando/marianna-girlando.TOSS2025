@@ -6,20 +6,24 @@
 
 This webpage contains the slides, handouts and homeowork assignments for the course Proof Theory of Modal Logic, which will take place within the [5th Tsinghua Logic Summer School](https://tsinghualogic.net/JRC/toss/), organized by the [Tsinghua University - University of Amsterdam Joint Research Centre for Logic](https://tsinghualogic.net/JRC/). The course will take place at the Tsinghua University, from 14th to 18th July 2025. 
 
-This course is based on the [omonimous course](https://esslli24-pfthml.github.io/esslli24PfThML.github.io/) taught at [ESSLLI2024](https://2024.esslli.eu/), prepared and taught in collaboration with [Tiziano Dalmonte](https://dev-www.unibz.it/en/faculties/engineering/academic-staff/person/47069-tiziano-dalmonte). 
+This course is based on a [course](https://esslli24-pfthml.github.io/esslli24PfThML.github.io/) taught at [ESSLLI2024](https://2024.esslli.eu/), prepared in collaboration with [Tiziano Dalmonte](https://dev-www.unibz.it/en/faculties/engineering/academic-staff/person/47069-tiziano-dalmonte). 
 
 
 ## Table of Contents 
-- [Practical information](#info)
-- [Course material](#material)
-  - [Lecture 1 - Sequent Calculus and Modal Logic](#l1)
-  - [Lecture 2 - Nested Sequents](#l2)
-  - [Lecture 3 - Labelled Proof Systems](#l3) 
-  - [Lecture 4 - Semantic Completeness of Labelled Calculi](#l4)
-  - [Lecture 5 - Beyond the S5-cube - Labelled Calculi and Neighbourhood Models](#l5)
-- [Homework Assignment](#homs)
-- [Prerequisites](#pre)
-- [References](#refs)
+- [Proof Theory of Modal Logic](#proof-theory-of-modal-logic)
+    - [Course at the 5th Tsinghua Logic Summer School, June and July 2025](#course-at-the-5th-tsinghua-logic-summer-school-june-and-july-2025)
+    - [Marianna Girlando](#marianna-girlando)
+  - [Table of Contents](#table-of-contents)
+  - [Practical information ](#practical-information-)
+  - [Course material ](#course-material-)
+    - [Lecture 1 - Sequent Calculus and Modal Logic ](#lecture-1---sequent-calculus-and-modal-logic-)
+    - [Lecture 2 - Nested Sequents ](#lecture-2---nested-sequents-)
+    - [Lecture 3 - Labelled Proof Systems ](#lecture-3---labelled-proof-systems-)
+    - [Lecture 4 - Semantic Completeness of Labelled Calculi  ](#lecture-4---semantic-completeness-of-labelled-calculi--)
+    - [Lecture 5 - Beyond the S5-cube ](#lecture-5---beyond-the-s5-cube-)
+    - [Homework Assignments ](#homework-assignments-)
+    - [Prerequisites ](#prerequisites-)
+    - [References ](#references-)
 
 ## Practical information <a name="info"></a>
 - **Time:** TBA
@@ -35,33 +39,37 @@ The material will be regularly updated throughout the course.
 In this lecture we will introduce Gentzen-style sequent calculus for classical propositional logic, using the proof system G3cpl presented in Section 3.5 of (Troelstra and Schwichtenberg, 2000). We will use the calculus to illustrate the main proof-theoretical properties which we will be focusing on in the course, including *invertibility* of the rules, *cut-admissibility* and *termination* of proof search. We will then (quickly) introduce the classical modal logics in the S5-cube, and discuss the available proof systems for the logics. In particular, we will see that the Gentzen-style formalism is not enough to define cut-free calculi for modal logic. This motivates the introduction to *nested* and *labelled* proof systems, which enrich Gentzen-style sequent calculus in different ways. 
 
 
-#### Slides
-To be uploaded.
+**Slides** To be uploaded.
 
 ### Lecture 2 - Nested Sequents <a name="l2"></a>
-In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer strcture, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K, illustrate their main proof-theorerical properties. 
+In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer structure, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K and illustrate its main proof-theorerical properties. 
 The presentation of nested seqeunts is based on (Brünnler, 2009). 
 
-#### Slides
-To be uploaded.
+
+**Slides** To be uploaded.
+
 
 
 ### Lecture 3 - Labelled Proof Systems <a name="l3"></a>
+Labelled sequent calculi enrich the *language* of  Gentzen-style sequents by introducing *labels*, which are variables representing worlds of a Kripke model. We will discuss labelled proof systems for modal logics in the S5-cube, and illustrate their main proof-theoretical properties. Following (Negri, 2003), we will see how labelled calculi can be defined for any modal logic whose frame conditions can be expressed by *geometric formulas*.  
 
-#### Slides
-To be uploaded.
+**Slides** To be uploaded.
+
 
 
 ### Lecture 4 - Semantic Completeness of Labelled Calculi  <a name="l4"></a>
+In this lecture, we will consider semantic completeness, that is, the method to prove completeness by constructing a countermodel from a failed proof-search tree. We will illustrate this method for labelled calculi, which are particularly well-suited to the purpose. As a case study, we will consider the labelled proof system for modal logic S4. 
 
-#### Slides
-To be uploaded.
+**Slides** To be uploaded.
 
 
-### Lecture 5 - Beyond the S5-cube - Labelled Calculi and Neighbourhood Models <a name="l5"></a>
 
-#### Slides
-To be uploaded.
+### Lecture 5 - Beyond the S5-cube <a name="l5"></a>
+In this lecture we will show how to define labelled sequent calculi for different kinds of modal logics, demonstrating the flexibility and modularity of the labelled formalism. In particular, we will consider labelled calculi for intuitionistic modal logic, whose semantics is defined in terms of bi-relational models, and 
+and labelled calculi for conditional logic, whose semantics is defined in terms of neighbourood models. 
+
+**Slides** To be uploaded.
+
 
 
 ### Homework Assignments <a name="homs"></a>
