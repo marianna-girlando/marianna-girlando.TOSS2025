@@ -25,7 +25,7 @@ This course is based on a [course](https://esslli24-pfthml.github.io/esslli24PfT
 - **Time:** 09:50-12:15, 14th -18th July 
 - **Location:** Room 5105, Teaching Building No. 5
 - **Lecturer:** [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html) (m.girlando _at_ uva _dot_ nl)
-- **Teaching Assistants:** Sisi Yang (yangss23_at_mails_dot_tsinghua_dot_edu_dot_cn), Xin Li (lixin24_@_mails_dot_tsinghua_dot_edu_dot_cn)
+- **Teaching Assistants:** Sisi Yang (yangss23 _at_ mails _dot_ tsinghua _dot_ edu _dot_ cn), Xin Li (lixin24 _@_ mails _dot_ tsinghua _dot_ edu _dot_ cn)
 
 
 ## Course material <a name="material"></a>
@@ -35,28 +35,28 @@ The material will be regularly updated throughout the course.
 In this lecture we will introduce Gentzen-style sequent calculus for classical propositional logic, using the proof system G3cpl presented in Section 3.5 of (Troelstra and Schwichtenberg, 2000). We will use the calculus to illustrate the main proof-theoretical properties which we will be focusing on in the course, including *invertibility* of the rules, *cut-admissibility* and *termination* of proof search. We will then (quickly) introduce the classical modal logics in the S5-cube, and discuss the available proof systems for the logics. In particular, we will see that the Gentzen-style formalism is not enough to define cut-free calculi for modal logic. This motivates the introduction to *nested* and *labelled* proof systems, which enrich Gentzen-style sequent calculus in different ways.
 
 
-**Slides** To be uploaded.
+**Slides** - To be uploaded.
 
 ### Lecture 2 - Nested Sequents <a name="l2"></a>
 In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer structure, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K and illustrate its main proof-theorerical properties.
 The presentation of nested seqeunts is based on (Brünnler, 2009).
 
 
-**Slides** To be uploaded.
+**Slides** - To be uploaded.
 
 
 
 ### Lecture 3 - Labelled Proof Systems <a name="l3"></a>
 Labelled sequent calculi enrich the *language* of  Gentzen-style sequents by introducing *labels*, which are variables representing worlds of a Kripke model. We will discuss labelled proof systems for modal logics in the S5-cube, and illustrate their main proof-theoretical properties. Following (Negri, 2003), we will see how labelled calculi can be defined for any modal logic whose frame conditions can be expressed by *geometric formulas*.  
 
-**Slides** To be uploaded.
+**Slides** - To be uploaded.
 
 
 
 ### Lecture 4 - Semantic Completeness of Labelled Calculi  <a name="l4"></a>
 In this lecture, we will consider semantic completeness, that is, the method to prove completeness by constructing a countermodel from a failed proof-search tree. We will illustrate this method for labelled calculi, which are particularly well-suited to the purpose. As a case study, we will consider the labelled proof system for modal logic S4.
 
-**Slides** To be uploaded.
+**Slides** - To be uploaded.
 
 
 
@@ -64,7 +64,7 @@ In this lecture, we will consider semantic completeness, that is, the method to 
 In this lecture we will show how to define labelled sequent calculi for different kinds of modal logics, demonstrating the flexibility and modularity of the labelled formalism. In particular, we will consider labelled calculi for intuitionistic modal logic, whose semantics is defined in terms of bi-relational models, and
 and labelled calculi for conditional logic, whose semantics is defined in terms of neighbourood models.
 
-**Slides** To be uploaded.
+**Slides** - To be uploaded.
 
 
 
