@@ -22,10 +22,10 @@ This course is based on a [course](https://esslli24-pfthml.github.io/esslli24PfT
 - [References ](#references-)
 
 ## Practical information <a name="info"></a>
-- **Time:** TBA
-- **Location:** TBA
-- **Lecturer:** [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html) ("m.girlando _at_ uva _dot_ nl")
-- **Teaching Assistants:** TBA
+- **Time:** 09:50-12:15, 14th -18th July 
+- **Location:** Room 5105, Teaching Building No. 5
+- **Lecturer:** [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html) (m.girlando _at_ uva _dot_ nl)
+- **Teaching Assistants:** Sisi Yang (yangss23_at_mails_dot_tsinghua_dot_edu_dot_cn), Xin Li (lixin24_@_mails_dot_tsinghua_dot_edu_dot_cn)
 
 
 ## Course material <a name="material"></a>
