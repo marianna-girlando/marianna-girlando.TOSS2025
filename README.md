@@ -17,7 +17,7 @@ This course is based on a [course](https://esslli24-pfthml.github.io/esslli24PfT
   - [Lecture 3 - Labelled Proof Systems ](#lecture-3---labelled-proof-systems-)
   - [Lecture 4 - Semantic Completeness of Labelled Calculi  ](#lecture-4---semantic-completeness-of-labelled-calculi--)
   - [Lecture 5 - Beyond the S5-cube ](#lecture-5---beyond-the-s5-cube-)
-- [Homework Assignments ](#homework-assignments-)
+- [Homework and Exam ](#homework-assignments-)
 - [Prerequisites ](#prerequisites-)
 - [References ](#references-)
 
@@ -25,7 +25,7 @@ This course is based on a [course](https://esslli24-pfthml.github.io/esslli24PfT
 - **Time:** 09:50-12:15, 14th -18th July 
 - **Location:** Room 5105, Teaching Building No. 5
 - **Lecturer:** [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html) (m.girlando _at_ uva _dot_ nl)
-- **Teaching Assistants:** Sisi Yang (yangss23 _at_ mails _dot_ tsinghua _dot_ edu _dot_ cn), Xin Li (lixin24 _@_ mails _dot_ tsinghua _dot_ edu _dot_ cn)
+- **Teaching Assistants:** Sisi Yang (yangss23 _at_ mails _dot_ tsinghua _dot_ edu _dot_ cn), Xin Li (lixin24 _at_ mails _dot_ tsinghua _dot_ edu _dot_ cn)
 
 
 ## Course material <a name="material"></a>
@@ -72,8 +72,7 @@ and labelled calculi for conditional logic, whose semantics is defined in terms 
 - Homework 1 - To be uploaded.
 - Homework 2 - To be uploaded.
 - Homework 3 - To be uploaded.
-- Homework 4 - To be uploaded.
-- Homework 5 - To be uploaded.
+- Take-home exam - To be uploaded.
 
 
 ### Prerequisites <a name="pre"></a>
