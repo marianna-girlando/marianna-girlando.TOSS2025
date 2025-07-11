@@ -35,7 +35,7 @@ The material will be regularly updated throughout the course.
 In this lecture we will introduce Gentzen-style sequent calculus for classical propositional logic, using the proof system G3cpl presented in Section 3.5 of (Troelstra and Schwichtenberg, 2000). We will use the calculus to illustrate the main proof-theoretical properties which we will be focusing on in the course, including *invertibility* of the rules, *cut-admissibility* and *termination* of proof search. We will then (quickly) introduce the classical modal logics in the S5-cube, and discuss the available proof systems for the logics. In particular, we will see that the Gentzen-style formalism is not enough to define cut-free calculi for modal logic. This motivates the introduction to *nested* and *labelled* proof systems, which enrich Gentzen-style sequent calculus in different ways.
 
 
-**Slides** - [Slides Lecture 1](lectures/lecture_1_toss25_draw_.pdf)
+**Slides** - [Slides Lecture 1](lectures/lecture_1_toss25_draw.pdf)
 
 ### Lecture 2 - Nested Sequents <a name="l2"></a>
 In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer structure, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K and illustrate its main proof-theorerical properties.
