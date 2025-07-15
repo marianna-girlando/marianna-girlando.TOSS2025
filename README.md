@@ -44,7 +44,7 @@ In this lecture we will focus on nested sequent calculi for modal logics in the 
 The presentation of nested seqeunts is based on (Brünnler, 2009).
 
 
-**Slides**: [Slides Lecture 2](lectures/lecture2_toss25.pdf)
+**Slides**: [Slides Lecture 2](lectures/lecture2_toss25.pdf), [Annotated Slides Lecture 2](lectures/lecture2_toss25_annotated.pdf),
 
 
 ### Lecture 3 - Labelled Proof Systems <a name="l3"></a>
