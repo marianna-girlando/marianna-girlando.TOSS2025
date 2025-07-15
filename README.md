@@ -37,7 +37,7 @@ In this lecture we will introduce Gentzen-style sequent calculus for classical p
 
 **Slides**: [Slides Lecture 1](lectures/lecture_1_toss25.pdf), [Annotated Slides Lecture 1](lectures/lecture_1_toss25_annotated.pdf)
 
-**Typos**: There is a typo in the last slide (exercises), Question 2: the formula is missing a parenthesis. The correct formula is: $ \Box ( p \land (\box p \rightarrow \bot ) ) \rightarrow \bot $
+**Typos**: There is a typo in the last slide (exercises), Question 2: the formula is missing a parenthesis. The correct formula is: $ \Box ( p \land (\Box p \rightarrow \bot ) ) \rightarrow \bot $
 
 ### Lecture 2 - Nested Sequents <a name="l2"></a>
 In this lecture we will focus on nested sequent calculi for modal logics in the S5-cube. Nested sequents enrich the *structure* of Gentzen-style sequent calculus, by introducing an additional structural connective, intrepreted as Box. Nested sequents encode *trees* of Gentzen-style sequents and, thanks to their richer structure, constitute a cut-free proof system for modal logic. We will mostly discuss nested sequents for modal logic K and illustrate its main proof-theorerical properties.
@@ -74,7 +74,7 @@ Each homework will receive a maximum of 10 points, and will amount to 20% of the
 lecture, and is due right before the next lecture. 
 The take-home exam will amount to 40% of the final grade, and it is due on Sunday 20 June, at 23:59.  
 - [Homework 1](homework/homework-1.pdf)
-- Homework 2 - To be uploaded.
+- [Homework 2](homework/homework-2.pdf)
 - Homework 3 - To be uploaded.
 - Take-home exam - To be uploaded.
 
