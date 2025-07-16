@@ -50,7 +50,7 @@ The presentation of nested seqeunts is based on (Brünnler, 2009).
 ### Lecture 3 - Labelled Proof Systems <a name="l3"></a>
 Labelled sequent calculi enrich the *language* of  Gentzen-style sequents by introducing *labels*, which are variables representing worlds of a Kripke model. We will discuss labelled proof systems for modal logics in the S5-cube, and illustrate their main proof-theoretical properties. Following (Negri, 2003), we will see how labelled calculi can be defined for any modal logic whose frame conditions can be expressed by *geometric formulas*.  
 
-**Slides**: [Slides Lecture 3](lectures/lecture3_toss25.pdf)
+**Slides**: [Slides Lecture 3](lectures/lecture3_toss25.pdf), [Annotated Slides Lecture 3](lectures/lecture3_toss25_annotated.pdf)
 
 
 
@@ -75,7 +75,7 @@ lecture, and is due right before the next lecture.
 The take-home exam will amount to 40% of the final grade, and it is due on Sunday 20 June, at 23:59.  
 - [Homework 1](homework/homework-1.pdf)
 - [Homework 2](homework/homework-2.pdf)
-- [Homework 3](homework/homework-3.pdf)
+- [Homework 3](homework/homework-3.pdf) - due on Friday 18 July at 9:50
 - Take-home exam - To be uploaded.
 
 
