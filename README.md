@@ -57,7 +57,8 @@ Labelled sequent calculi enrich the *language* of  Gentzen-style sequents by int
 ### Lecture 4 - Semantic Completeness  <a name="l4"></a>
 In this lecture, we will consider semantic completeness, that is, the method to prove completeness by constructing a countermodel from a failed proof-search tree. We will illustrate this method for both nested sequents and labelled calculi, which are particularly well-suited to the purpose. As a case study, we will consider the labelled proof system for modal logic K4.
 
-**Slides** - [Slides Lecture 4](lectures/lecture4_toss25.pdf)
+**Slides** - [Slides Lecture 4](lectures/lecture4_toss25.pdf), [Annotated Slides Lecture 4](lectures/lecture4_toss25_annotated.pdf)
+
 
 
 
@@ -74,8 +75,9 @@ Each homework will receive a maximum of 10 points, and will amount to 20% of the
 lecture, and is due right before the next lecture. 
 The take-home exam will amount to 40% of the final grade, and it is due on Sunday 20 June, at 23:59.  
 - [Homework 1](homework/homework-1.pdf), [Solutions of Homework 1](homework/H1_solutions.pdf)
-- [Homework 2](homework/homework-2.pdf)
+- [Homework 2](homework/c)
 - [Homework 3](homework/homework-3.pdf) - due on Friday 18 July at 9:50
+**Typos**: there are two small typos in Homework 3: in Question 1, there is a "\forall x" missing in the frame condition for confluence, and in Question 3, in the statement of the invertibility lemma, "x:A" should be "y:A". A version of Homework 3 in which both typos have been corrected is [here](homework/homework-3-new.pdf)
 - Take-home exam - To be uploaded.
 
 
