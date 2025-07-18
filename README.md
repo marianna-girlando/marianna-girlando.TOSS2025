@@ -66,7 +66,7 @@ In this lecture, we will consider semantic completeness, that is, the method to 
 In this lecture we will show how to define labelled sequent calculi for different kinds of modal logics, demonstrating the flexibility and modularity of the labelled formalism. In particular, we will consider labelled calculi for intuitionistic modal logic, whose semantics is defined in terms of bi-relational models, and
 and labelled calculi for conditional logic, whose semantics is defined in terms of neighbourood models.
 
-**Slides** - [Slides Lecture 5](lectures/lecture5_toss25.pdf)
+**Slides** - [Slides Lecture 5 (new version)](lectures/lecture5_toss25_new.pdf)
 
 
 
@@ -78,7 +78,7 @@ The take-home exam will amount to 40% of the final grade, and it is due on Sunda
 - [Homework 2](homework/c)
 - [Homework 3](homework/homework-3.pdf) - due on Friday 18 July at 9:50
 **Typos**: there are two small typos in Homework 3: in Question 1, there is a "\forall x" missing in the frame condition for confluence, and in Question 3, in the statement of the invertibility lemma, "x:A" should be "y:A". A version of Homework 3 in which both typos have been corrected is [here](homework/homework-3-new.pdf)
-- Take-home exam - To be uploaded.
+- [Take-home exam](take-home-exam.pdf) - due on Monday 21 July at 23:59 
 
 
 ### Prerequisites <a name="pre"></a>
