@@ -66,7 +66,7 @@ In this lecture, we will consider semantic completeness, that is, the method to 
 In this lecture we will show how to define labelled sequent calculi for different kinds of modal logics, demonstrating the flexibility and modularity of the labelled formalism. In particular, we will consider labelled calculi for intuitionistic modal logic, whose semantics is defined in terms of bi-relational models, and
 and labelled calculi for conditional logic, whose semantics is defined in terms of neighbourood models.
 
-**Slides** - To be uploaded.
+**Slides** - [Slides Lecture 5](lectures/lecture5_toss25.pdf)
 
 
 
